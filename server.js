@@ -8,8 +8,8 @@ app.use(express.json());
 
 // ── Supabase ─────────────────────────────────────────────────────────────────
 const supabase = createClient(
-  process.env.SUPABASE_URL,
-  process.env.SUPABASE_SERVICE_KEY
+  process.env.https://glzuvullidfwywcqglfv.supabase.co,
+  process.env.sb_publishable_nzBO6_XlzxVhToG9Ww669g_gT3ePykj
 );
 
 // ── Rate limiting ─────────────────────────────────────────────────────────────
